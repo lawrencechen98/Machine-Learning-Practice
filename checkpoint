@@ -1,2 +1,2 @@
-model_checkpoint_path: "best_mnist_model_0_to_4"
-all_model_checkpoint_paths: "best_mnist_model_0_to_4"
+model_checkpoint_path: "mnist_model_final.ckpt"
+all_model_checkpoint_paths: "mnist_model_final.ckpt"
